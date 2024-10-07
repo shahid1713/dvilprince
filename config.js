@@ -7,9 +7,9 @@ global.qris = "-"
 
 
 // GLOBAL SETTING
-global.owner = "6282127568219"
+global.owner = "923375987957"
 global.namabot = "ByxxBotz"
-global.nomorbot = "6282127568219"
+global.nomorbot = "923375987957"
 global.namaCreator = "byyxZ"
 global.linkyt = "https://youtube.com/@abyyyferrr"
 global.autoJoin = false
